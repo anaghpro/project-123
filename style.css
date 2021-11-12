@@ -1,0 +1,25 @@
+.hding{
+    color:darkslategray;
+    background-color:cadetblue;
+    font-family: 'Fruktur', cursive;
+    font-size: xx-large;
+
+    
+}
+.brng{
+    color: rgb(252, 57, 57);
+    background-color: ghostwhite;
+    font-family: 'Oswald', sans-serif;
+}
+.gd{
+    position:fixed;
+    bottom: 0;
+    background-color: lightgray;
+    color:chocolate ;
+    width: 100%;
+    text-align: center;
+}
+canvas{
+    border: 5px dashed red;
+    border-radius: 20px;
+}
